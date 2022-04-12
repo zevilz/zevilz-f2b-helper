@@ -4,7 +4,8 @@ Plugin Name: Fail2ban helper
 Description: Pushes failed logins to webserver error log for Fail2Ban use
 Version: 1.0
 Author: zEvilz
-Author URI: https://github.com/zevilz/zevilz-f2b-helper
+Author URI: https://zevilz.dev
+Plugin URI: https://github.com/zevilz/zevilz-f2b-helper
 License: MIT
  */
 
